@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "17445381550",
+    "firebase_url": "https://kashikari-memo-b8ad5.firebaseio.com",
+    "project_id": "kashikari-memo-b8ad5",
+    "storage_bucket": "kashikari-memo-b8ad5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17445381550:android:99f5de84d9ce03894b943f",
+        "android_client_info": {
+          "package_name": "com.example.fireflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17445381550-02eukh18mo7gi5egirc628ll7s9c21cs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZyFarRzwjJHUb_sYroWeRtIR4xoC2l7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17445381550-02eukh18mo7gi5egirc628ll7s9c21cs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
